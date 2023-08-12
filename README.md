@@ -27,7 +27,7 @@ SoapUI, Charles, Chrome DevTools.
  Итог:
    Раздел “Личные события” не готов к выпуску, так как старый функционал - раздел “Новый урок”, его создание, перенос, отмена - не работают.
 
-#### Проект 2: Протестировать форму регистрации и авторизации нового пользователя для [сайта] (https://musescore.com/ "Всплывающая подсказка")
+#### Проект 2: Протестировать форму регистрации и авторизации нового пользователя для [сайта](https://musescore.com/ "Всплывающая подсказка")
 Что нужно было сделать: 
 1. Подготовить и описать набор тест-кейсов для функционального тестирования.
 2. Провести функциональное тестирование.
@@ -36,7 +36,7 @@ SoapUI, Charles, Chrome DevTools.
 
    Описание решения:
    Проведено функциональное тестирование, созданы тест-кейсы.
-   [Тест-кейсы по форме регистрации] (https://docs.google.com/document/d/1o9t-enGXrGordjfRWCkvKjXme6DwojpBVqUu-eMJbyQ/edit?usp=sharing "Всплывающая подсказка")
-   [Тест-кейсы по форме авторизации] (https://docs.google.com/document/d/1tU-mYqfpu0yS7gILTKeM0fz7W8Qd48q22o9SWo-7FeM/edit?usp=sharing "Всплывающая подсказка")
+   [Тест-кейсы по форме регистрации](https://docs.google.com/document/d/1o9t-enGXrGordjfRWCkvKjXme6DwojpBVqUu-eMJbyQ/edit?usp=sharing "Всплывающая подсказка")
+   [Тест-кейсы по форме авторизации](https://docs.google.com/document/d/1tU-mYqfpu0yS7gILTKeM0fz7W8Qd48q22o9SWo-7FeM/edit?usp=sharing "Всплывающая подсказка")
 
 
